@@ -7,7 +7,7 @@ To run the installation script, follow these steps:
 1. Download the repository by cloning it or downloading the ZIP file and extracting it to your desired location.
 2. Open PowerShell in the directory where you placed the repository files.
 3. Execute the following command:
-```sh
+```
 .\OCRpckgInstaller.ps1
 ```
 # Additional Information
