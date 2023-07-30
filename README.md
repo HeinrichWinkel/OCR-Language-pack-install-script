@@ -11,4 +11,4 @@ To run the installation script, follow these steps:
 .\OCRpckgInstaller.ps1
 ```
 # Additional Information
-**Executable (.exe) Version Warning**: Please note that the executable version of the script found in the "[`Releases`](https://github.com/HeinrichWinkel/OCR-Language-pack-install-script/releases)" section may not work. It is primarily intended for non-technical users who might be unfamiliar with running PowerShell scripts (.ps1 files). Advanced users are encouraged to use the PowerShell script directly.
+**Executable (.exe) Version Warning**: Please note that the executable version of the script found in the [`Releases`](https://github.com/HeinrichWinkel/OCR-Language-pack-install-script/releases) section may not work. It is primarily intended for non-technical users who might be unfamiliar with running PowerShell scripts (.ps1 files). Advanced users are encouraged to use the PowerShell script directly.
